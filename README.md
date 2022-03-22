@@ -6,3 +6,7 @@ You can also manually type in the amount of points you want to put into your sta
 The program also generates your character into a text file that is easily readable and can be used within other software (as long as they can read text files).
 
 This was created as a college project, and currently the second version of the program is the one i'm happy with. I've also uploaded the first version, but it is very limited in usability and is missing alot of key features.
+
+IMPORTANT
+MAKE SURE YOU HAVE THE LATEST JDK INSTALLED OR THE PROGRAM WONT WORK.
+https://www.oracle.com/java/technologies/downloads/#jdk18-windows
